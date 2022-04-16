@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "4Aces",
+    "slug": "4Aces",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
